@@ -35,13 +35,13 @@ For more information about IOGFKNZ, visit their website: [www.karate.org.nz](htt
 
 ## Training
 
-A training session will usually follow a standard pattern. Generally, students line up in order of rank facing shomen with the most senior student at the right end of the front row and most junior student at the left end of the back row. The instructor (Sensei) is at the center front facing the students.
+Training sessions usually follow a consistent, standard pattern. Students line up in order of rank facing shо̄men <ruby><rb>正</rb><rt>しょう</rt><rb>面</rb><rt>めん</rt></ruby>, with the most senior student of a given row standing at the rightmost position. The instructor (Sensei <ruby><rb>先</rb><rt>せん</rt><rb>生</rb><rt>せい</rt></ruby>) stands at the front, facing the students.
 
-There may be variations at different Dojos depending on the preferences of the instructor (e.g., if there is more than one instructor).
+There may be variations at different dо̄jо̄s depending on the preferences of the instructor (e.g. if there is more than one instructor).
 
-Different Dojos will have differing levels of formality in Dojo. A moderately formal Dojo will have opening and closing ceremonies for each training session. These ceremonies may involve sitting in “seiza” (sitting with legs folded underneath) and “mokuso” (meditation). Everyone bows (“rei”) on entry to and on leaving the Dojo, and to instructor or training partners when beginning and ending exercises. The phrase onegai shimasu (please teach me) is used before beginning any exercises (either to the instructor or to the training partners) and domo arigato gozaimashita (thank you very much for teaching me) at the end.
+Different dо̄jо̄s will have differing levels of formality, with a moderately formal dо̄jо̄ having opening and closing ceremonies for each training session. These ceremonies may involve sitting in “seiza” <ruby><rb>正</rb><rt>せい</rt><rb>坐</rb><rt>ざ</rt></ruby> (sitting with legs folded underneath) and “mokuso” (<ruby><rb>目</rb><rt>もく</rt><rb>測</rb><rt>そ</rt></ruby> meditation). Everyone bows (“rei” <ruby><rb>礼</rb><rt>れい</rt></ruby>) on entry to and on leaving the dо̄jо̄, and to the instructor or training partners when beginning and ending exercises. The phrase onegai shimasu (お<ruby><rb>願</rb><rt>ねが</rt></ruby>いします, please teach me) is used before beginning any particular set of exercises (either to the instructor or to training partners) and dо̄mo arigato gozaimashita (どうもありがとうございました, thank you very much for teaching me) at the end.
 
-For a full breakdown of what goes on in a training session, [see this page](/training.md).
+For a more detailed breakdown of what happnes in a training session, [see this page](/training.md).
 
 ## Ranks
 
